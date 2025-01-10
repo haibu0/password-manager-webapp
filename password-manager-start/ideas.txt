@@ -1,0 +1,11 @@
+- to do these things, use pandas to store data?
+
+- Drop down menu of top 3 emails used. Whenever the user selects
+one of the emails, it automatically fills itself in the username entry
+
+- After the user sumbits, a popup showing the details of the users entries
+asking the user if they are sure they want to sumbit the entries
+
+- A satisfying checkmark/popup showing that entries are sumbitted
+
+- check for existing entries
